@@ -13,18 +13,9 @@ No new blocks and no client/server desync: the mod tracks per-position transitio
 
 ## Compatibility
 
-LambDynamicLights
-Sodium
-Iris Shaders
-
----
-
-## Repository Structure
-
-This repository contains implementations for multiple Minecraft versions:
-
-### [Minecraft 26.2](file:///26.2/)
-* [Fabric](file:///26.2/fabric/)
+- LambDynamicLights
+- Sodium
+- Iris Shaders
 
 ---
 
