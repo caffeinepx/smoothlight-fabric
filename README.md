@@ -1,5 +1,7 @@
 # Smooth Light
 
+![Preview](assets/Preview.gif)
+
 A Minecraft mod that makes all light changes gradual instead of instant:
 
 * **Breaking a light source** = Light fades out smoothly.
