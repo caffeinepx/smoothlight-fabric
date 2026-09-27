@@ -22,4 +22,3 @@ No new blocks and no client/server desync: the mod tracks per-position transitio
 ## License
 
 CC0-1.0
-
