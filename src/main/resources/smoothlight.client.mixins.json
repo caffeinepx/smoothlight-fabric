@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.smoothlight.client.mixin",
+	"plugin": "com.smoothlight.SmoothLightMixinPlugin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"EntityDynamicLightFadeMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

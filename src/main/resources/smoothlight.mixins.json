@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "com.smoothlight.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"BlockLightEngineMixin",
+		"LevelChunkMixin",
+		"LightEngineMixin",
+		"LightEnginePosMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
